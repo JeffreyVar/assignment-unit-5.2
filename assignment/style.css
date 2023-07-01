@@ -1,0 +1,23 @@
+header {
+    background-color: #2F3440;
+    padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #F5E5C0;
+}
+
+body {
+    background-image: url('record.png');
+    background-size: 200px;
+    background-repeat: round-1;
+    margin: 0;
+
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
